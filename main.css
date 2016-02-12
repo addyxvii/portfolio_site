@@ -88,15 +88,15 @@
 }
 
 .about:hover{
-  color: #99FF00;
+  color: #BBBBBB;
 }
 
 .work:hover{
-  color: #99FF00;
+  color: #BBBBBB;
 }
 
 .contact:hover{
-  color: #99FF00;
+  color: #BBBBBB;
 }
 .description{
   background-color: hsla(0, 0%, 0%, 0.6);
@@ -115,8 +115,15 @@
 .aboutMe{
   color: white;
   font-family: 'Work Sans', sans-serif;
-  font-size: 3vw;
+  font-size: 2.5vw;
   padding: 3vw;
   line-height: 200%;
 
+}
+.home{
+	color: white;
+	font-family: 'Work Sans', sans-serif;
+	font-size: 2vw;
+	padding: 3vw;
+	line-height: 200%;
 }
