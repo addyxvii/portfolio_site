@@ -1,3 +1,3 @@
 # portfolio_site
 
-This is the portfolio site for Addison Bennett
+Portfolio site for Addison Bennett
