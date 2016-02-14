@@ -1,3 +1,3 @@
-# portfolio_site
+# README
 
 Portfolio site for Addison Bennett
